@@ -3,10 +3,11 @@
 
 .principal { 
 	background-image:url(../img/work-933061_1920.jpg);
-	height:1080px;
-	width:100%;
+    	padding: 1rem;
+    	display: table;
+    	height: 100vh;
+    	width: 100%;
 	color:#FFF;
-	margin:0;
 	background-size: cover;
     	background-position: center center
 	}
