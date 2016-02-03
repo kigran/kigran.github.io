@@ -1,4 +1,4 @@
 # kigran.github.io
-Website
+Personal website
 
-<a href="kigran.github.io">kigran.github.io</a>
+
